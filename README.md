@@ -27,7 +27,7 @@ BAIDU_AK=yourkey
 ## Sample Interaction
 
 ```
-user1>> 杭州天气
+user1>> hubot: 杭州天气
 hubot>> 杭州天气：
 PM2.5 85
 周三 04月01日 (实时：24℃) 多云 东风微风 21℃
