@@ -1,7 +1,7 @@
 {
   "name": "hubot-hubot-tianqi",
   "description": "A hubot script that report weather",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Wei Zhu <yesmeck@gmail.com>",
   "license": "MIT",
 
