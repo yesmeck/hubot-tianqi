@@ -27,7 +27,7 @@ module.exports = (robot) ->
           response += "PM2.5 #{result.pm25}\n"
           result.weather_data.forEach (weather) ->
             response += "#{weather.date} #{weather.weather} #{weather.wind} #{weather.temperature}\n"
-          msg.reply response
+          msg.send response
         else
-          msg.reply "#{city}是什么鬼地方？"
+          msg.send "#{city}是什么鬼地方？"
 
