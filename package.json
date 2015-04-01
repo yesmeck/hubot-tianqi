@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-tianqi",
+  "name": "hubot-tianqi",
   "description": "A hubot script that report weather",
   "version": "0.0.1",
   "author": "Wei Zhu <yesmeck@gmail.com>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-tianqi.git"
+    "url": "git://github.com/yesmeck/hubot-tianqi.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-tianqi/issues"
+    "url": "https://github.com/yesmeck/hubot-tianqi/issues"
   },
 
   "dependencies": {
